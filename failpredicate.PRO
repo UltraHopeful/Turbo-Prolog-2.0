@@ -1,3 +1,5 @@
+%Program for fail predicate
+
 predicates
 a(integer)
 b(integer)
