@@ -1,3 +1,4 @@
+%fail predicate
 domains
 	Name=string
 	F=real
