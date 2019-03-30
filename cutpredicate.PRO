@@ -1,3 +1,5 @@
+%program for cut predicate
+
 predicates
 a(integer)
 b(integer)
