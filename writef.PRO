@@ -1,4 +1,4 @@
-%fail predicate
+%writef predicate
 domains
 	Name=string
 	F=real
@@ -10,4 +10,4 @@ clauses
 	readln(Name),
 	write("Enter float above 2 decimal point digit : "),
 	readreal(F),
-	writef("Name=%0.5, float=%0.2f",Name,F),nl,fail.
+	writef("Name=%0.5, float=%0.2f",Name,F),nl.
