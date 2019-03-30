@@ -1,3 +1,4 @@
+%max out of 3 numbers
 predicates
 	max(integer,integer,integer)
 clauses
