@@ -1,3 +1,4 @@
+%minimum out of 2 number
 predicates
 	min(integer,integer)
 clauses
