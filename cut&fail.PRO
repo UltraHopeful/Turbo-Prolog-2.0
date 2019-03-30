@@ -1,3 +1,4 @@
+%cut and fail predicate
 predicates
 a(integer)
 b(integer)
