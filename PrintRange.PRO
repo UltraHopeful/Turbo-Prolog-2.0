@@ -1,3 +1,4 @@
+%Print given range numbers
 predicates
 	range(integer,integer,integer)
 clauses
