@@ -1,3 +1,4 @@
+%Sum of 3 user given numbers
 predicates
 	go
 	sum(integer,integer,integer)
