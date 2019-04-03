@@ -1,3 +1,4 @@
+%Is given city capital of state or not?
 domains
 	City,State,Reply=string
 predicates
