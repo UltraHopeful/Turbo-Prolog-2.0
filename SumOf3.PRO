@@ -1,3 +1,4 @@
+%Sum of given 3 numbers
 predicates
 	sum(integer,integer,integer)
 clauses
