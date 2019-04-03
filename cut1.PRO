@@ -1,3 +1,4 @@
+%cut predicate
 predicates
 	larger(integer,integer,integer)
 clauses
