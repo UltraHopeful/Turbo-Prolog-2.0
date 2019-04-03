@@ -1,3 +1,4 @@
+%Print whatever you gives in input
 domains
 	Patient=string
 predicates
