@@ -1,0 +1,20 @@
+%Count vowel from list
+domains
+	list=symbol*
+	X=symbol
+predicates
+	member(X,list)
+	vowel(X)
+	findvowel(list,integer)
+clauses
+	member(X,[X|_]).
+	member(X,[_|Xs]):-
+		member(X,Xs).
+	vowel(X):-member(X,[a,e,i,o,u]).
+	findvowel([],0).
+	findvowel([X|T],N):-
+		vowel(X),
+		findvowel(T,N1),
+		N=N1+1,!.
+	findvowel([X|T],N):-
+		findvowel(T,N).
