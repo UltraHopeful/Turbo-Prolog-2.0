@@ -1,3 +1,4 @@
+%Cut Predicate
 predicates
 	a(integer)
 clauses
