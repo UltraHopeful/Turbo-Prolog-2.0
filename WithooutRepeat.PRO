@@ -1,3 +1,4 @@
+%Without repeat program of count
 domains
 	N,C=integer
 predicates
