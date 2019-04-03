@@ -1,3 +1,4 @@
+%readchar predicate
 domains
 	City,State=string
 	Reply=char
