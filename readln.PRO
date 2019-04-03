@@ -1,4 +1,4 @@
-%Is given city capital of state or not?
+%Is given city capital of state or not? readln predicate
 domains
 	City,State,Reply=string
 predicates
